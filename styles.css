@@ -1,0 +1,27 @@
+@media (max-width: 1024px){
+    .SliderCorporativoItemContainer{
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+    }
+}
+
+.SliderCorporativoWrapper{
+
+}
+
+.SliderCorporativoItemContainer{
+    display: flex;
+}
+
+.SliderCorporativoItem{
+
+}
+
+.SliderCorporativoItemImg{
+
+}
+
+.SliderCorporativoItemTitle{
+
+}
